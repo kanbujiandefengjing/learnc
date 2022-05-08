@@ -1,0 +1,6 @@
+﻿  test.c
+D:\code\test22403\test22403\test.c(38,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\code\test22403\test22403\test.c(38,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+D:\code\test22403\test22403\test.c(39,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\code\test22403\test22403\test.c(39,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+  test22403.vcxproj -> D:\code\test22403\x64\Debug\test22403.exe

@@ -1,0 +1,8 @@
+﻿  test.c
+D:\code\test22501\test22501\test.c(15,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\test22501\test22501\test.c(15,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\test22501\test22501\test.c(16,23): warning C4013: “strlen”未定义；假设外部返回 int
+D:\code\test22501\test22501\test.c(17,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\test22501\test22501\test.c(17,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\test22501\test22501\test.c(9,6): warning C4101: “arr2”: 未引用的局部变量
+  test22501.vcxproj -> D:\code\test22501\x64\Debug\test22501.exe
